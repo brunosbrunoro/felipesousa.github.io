@@ -39,7 +39,6 @@ Como de fato será um desenho, delimitar tamanhos, larguras, entre outros é uma
 
 Fazer reuniões com a equipe é essencial para que possamos criar algo que seja fácil de entender e compreender. Caso seja um projeto pessoal, caso use GitHub, ou qualquer outra ferramenta para Deploy, crie uma documentação para explicar o foco ou o desejo para o futuro projeto, para caso alguem deseje contribuir, ficar mais simples de entender e colaborar.
 
-
 ### do rabisco ao gráfico
 
 Não importa o que você usará para iniciar, seja uma folha de caderno, guardanapo, (rs), o importante é que exista evolução quanto ao processo do seu protótipo.

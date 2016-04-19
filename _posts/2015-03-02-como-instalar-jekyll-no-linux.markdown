@@ -80,7 +80,4 @@ A mensagem exibida diz que um novo site em jekyll foi criado no diretório **/ho
 
 Pronto! Para vermos o exemplo basta irmos no navegador e digitarmos **http://localhost:4000**.
 
-Resultado..
-
-
 Viu como é simples? Qualquer dúvida, crítica ou algum ponto importante que foi mal explicado ou que faltou no artigo, comenta que agradecerei muito! até a pŕoxima!

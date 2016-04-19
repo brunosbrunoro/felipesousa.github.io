@@ -9,6 +9,6 @@ tag:
 - opensource
 - comunity
 link_slide: "http://felipesousa.github.io/talks/IonicMeetup/#/"
-event: "2nd Meetup Ionic - UNIFOR - Fortaleza"
+event: "2nd Meetup Ionic CE - UNIFOR - Fortaleza"
 talks: true
 ---

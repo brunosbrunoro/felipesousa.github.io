@@ -14,6 +14,7 @@ blog: true
 Um ano como desenvolvedor front end, novas experiências de vida, muitos novos amigos. Aprender que a comunidade é muito mais importante que muitas outras coisas, conhecer pessoas que buscam objetivos e metas comparadas as suas, é entusiasmante, é sensacional e, acima de tudo essencial quando se busca ser um profissional com diferencial...
 
 <!-- /COLOCAR A FOTO AQUI! -->
+<img src="/assets/images/posts/front-in-fortaleza-2014.jpg" alt='Front in Fortaleza 2014' title='Front in Fortaleza 2014' >
 
 Essa foto representa o início de um ano que estava por vir cheio de novas conquistas, conhecimentos, amigos, etc. Alí estou eu, ao lado do brother de vermelho, de calça branca, feliz pra caramba, sendo aquele momento de consolidação de uma espera que parecia inacabável...
 
@@ -43,11 +44,11 @@ Saindo um pouco sobre o assunto, um diferencial que vejo no mundo do desenvolvim
 ### Algumas conquistas e coisas mais
 
 
-Falar sobre as minhas conquistas nesse período curto, é algo que me deixa animado, todos nós temos orgulho do que conseguimos, com garra, esforço e muita dedicação, dentre elas e creio que uma das maiores seja o meu próprio Blog, foi aqui que eu comecei a compartilhar o meu conhecimento, falar de mim, de alguma ferramenta, de palestras, enfim, o que der na telha e eu considerar legal para se escrever. Novamente, sem amigos e outras pessoas para me guiarem nesse caminho até o primeiro artigo ir pro ar, eu ficaria estagnado e a evolução ocorreria de forma mais lenta. Outra conquista - recente - porém considero muito pra mim, foi a criação junto com meu brother [Matheus Albuquerque](http://twitter.com/mabrasil_io) da criação do [Aplicativo sobre a 2ª edição do Front in Fortaleza](https://play.google.com/store/apps/details?id=com.devevents.frontinfortaleza), foi uma correria, em tempo muiiito curto - 14 dias para ser mais preciso - porém, graças a ele e muito esforço conseguimos criar o aplicativo que foi pra gente uma conquista legal e foi super apoiada por quem testou e tudo mais..  
+Falar sobre as minhas conquistas nesse período curto, é algo que me deixa animado, todos nós temos orgulho do que conseguimos, com garra, esforço e muita dedicação, dentre elas e creio que uma das maiores seja o meu próprio Blog, foi aqui que eu comecei a compartilhar o meu conhecimento, falar de mim, de alguma ferramenta, de palestras, enfim, o que der na telha e eu considerar legal para se escrever. Novamente, sem amigos e outras pessoas para me guiarem nesse caminho até o primeiro artigo ir pro ar, eu ficaria estagnado e a evolução ocorreria de forma mais lenta. Outra conquista - recente - porém considero muito pra mim, foi a criação junto um dos meus maiores amigos desde que comecei a desenvolver [Matheus Albuquerque](http://twitter.com/mabrasil_io) da criação do [Aplicativo sobre a 2ª edição do Front in Fortaleza](https://play.google.com/store/apps/details?id=com.devevents.frontinfortaleza), foi uma correria, em tempo muiiito curto - 14 dias para ser mais preciso - porém, graças a ele e muito esforço conseguimos criar o aplicativo que foi pra gente uma conquista legal e foi super apoiada por quem testou e tudo mais..  
 
 Dentre outras tantas conquistas considero as amizades a maior de todas, conhecer pessoas que eu admiro, pessoas que motivam outras centenas de pessoas e acima de tudo, ajudam muita gente, com certeza, foi a maior das **RECOMPENSAS**.
 
-<img src="/images/posts/fif2015.jpg" alt='Front in Fortaleza 2015' title='Front in Fortaleza 2015' >
+<img src="/assets/images/posts/fif2015.jpg" alt='Front in Fortaleza 2015' title='Front in Fortaleza 2015' >
 
 Essa foi a foto de finalização da 2ª Edição do Front in Fortaleza, ali estou eu no meio, cercado de gente que me motivam a seguir no caminho que a pouco mais de 1 ano eu entrei de fato, claro que existem muitas outras coisas que eu poderia citar, pessoas, porém fica o agradecimento, a amigos e a todos que me ajudam bastante, que venham muitas novas experiencias, projetos, amigos, eventos e acima de tudo conhecimento!
 

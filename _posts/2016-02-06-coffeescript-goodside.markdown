@@ -60,7 +60,7 @@ var a = function(a , b){}
 Olhando de uma forma em exemplos simples, pouco se muda, isso porque a ideia do CoffeeScript é simplesmente se abstrair da quantidade de pontuação em trechos simples, como por exemplo, `()`, `{}`, `;`, etc.  
 
 
-## Bad - O tal do `return`
+## Bad - O tal do return!
 
 Em CoffeeScript a ultima linha sempre é considerada o `return`, vamos ao exemplo:
 {% highlight coffeescript %}
@@ -120,6 +120,6 @@ Para saber mais sobre o CoffeeScript,  galera do [Loop Infinito](http://loopinfi
 
 
 #### Outros links:
-[CoffeeScript Equivalents In ES6](https://github.com/hemanth/coffeescript-equivalents-in-es6)
-[JS to Coffee](http://js2.coffee/)
-[Replace CoffeeScript with ES6](https://robots.thoughtbot.com/replace-coffeescript-with-es6)
+- [CoffeeScript Equivalents In ES6](https://github.com/hemanth/coffeescript-equivalents-in-es6)
+- [JS to Coffee](http://js2.coffee/)
+- [Replace CoffeeScript with ES6](https://robots.thoughtbot.com/replace-coffeescript-with-es6)
