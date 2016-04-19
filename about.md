@@ -5,43 +5,42 @@ permalink: /about/index.html
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Meu nome é Luis Felipe Cavalcante Sousa, nasci e moro em Fortaleza-CE,
+sou Desenvolvedor Front-end, sou apaixonado pela web, pelo mundo open source,
+comecei com desenvolvimento com apenas 13 anos onde criava pequenos blog’s no Blogger,
+depois de um tempo aumentei a minha curiosidade para saber como que de fato ocorria por trás da mágica toda! </p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p> A partir daí comecei a estudar sobre desenvolvimento e me apaixonei loucamente pelo Front-End,
+hoje cá estou eu, escrevendo artigos, compartilhando o que eu aprendi, com o blog pretendo aumentar
+o número de leitores - antigamente, apenas meu amigos ouviam o que eu aprendia - procurar muito mais
+cabeças loucas por conteúdo, que procuram aprender. </p>
+
+<p> Desde de muito novo quis aprender os segredos do mundo Front-end - o que são, o que comem, como vivem -
+fui atrás e aprendi muitos dos meus conhecimentos em blog’s pessoais tais como esse blog. </p>
+
+<p> De alguma forma eu queria ser grato, manter uma linhagem eu diria e ao mesmo tempo aprender,
+já que quando ensinamos, aprendemos 2 vezes!</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
+	<li>HTML - Jade</li>
 	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
+	<li>CSS (Stylus, Sass)</li>
 	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
+	<li>Javascript (Design Patterns)</li>
 	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
+	<li>AngularJS</li>
+	<li>Grunt - Gulp</li>
 	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
+	<li>MongoDB</li>
 	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
 </ul>
 
-<h2>Projects</h2>
+<!-- <h2>Projects</h2> -->
 
-<ul>
+<!-- <ul>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+</ul> -->
