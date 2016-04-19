@@ -104,16 +104,16 @@ Usaremos o seguinte exemplo, adicionar uma classe quando o campo de email for in
 
 {% highlight html %}
 <div class="form-group" >
-			<label for="email" >Email</label >
-			<input type="email"
-			       class="form-control"
-			       ng-model="formField.email"
-			       required
-			       name="email" >
-		</div>
-		<pre>
-			 {{formName.email | json}}
-		</pre>
+	<label for="email" >Email</label >
+	<input type="email"
+       class="form-control"
+       ng-model="formField.email"
+       required
+       name="email" >
+</div>
+<pre>
+	{{formName.email | json}}
+</pre>
 {% endhighlight %}
 
 Com o campo ainda não preenchido, temos o seguintes estados:
@@ -164,6 +164,6 @@ O valor retornado será um booleano, e é aqui que nós vamos usar para implemen
 
 Se estivessemos conversando com a diretiva, estariamos falando o seguinte: "**ôôô ng-class, quando o campo for inválido, tu adiciona a classe `has-warning`, quando ele for válido tu adiciona a `has-success` beleza?**".
 
-Dessa forma, estamos alterando as classes do campo de acordo com estado do elemento, sendo ele válido ou não. Existem algumas outras diretivas que nos auxiliam no desenvolvimento e na validação dos nossos formulários. Em outros artigos, poderemos abordar sobre esse assunto utilizando outras formas de validação. [Veja o resultado final completo.](https://github.com/felipesousa/theme-hexo-blogger/blob/master/code-example/angular-js-forms.html)
+Dessa forma, estamos alterando as classes do campo de acordo com estado do elemento, sendo ele válido ou não. Existem algumas outras diretivas que nos auxiliam no desenvolvimento e na validação dos nossos formulários. Em outros artigos, poderemos abordar sobre esse assunto utilizando outras formas de validação. [Veja o resultado final completo.](https://gist.github.com/felipesousa/dc1cedf2802113682a590c58e549a7cc)
 
 Bem galera, era isso, caso encontre algum erro, algo que deveria ser implemenetado, ou algum comentário sobre o artigo, basta comentar. Até a próxima o/.
