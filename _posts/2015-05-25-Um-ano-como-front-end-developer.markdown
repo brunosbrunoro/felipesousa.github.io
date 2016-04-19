@@ -7,10 +7,9 @@ tag:
 - frontend
 - comunity
 blog: true
-star: true
 ---
 
-## Summary:
+## Sumário:
 
 Um ano como desenvolvedor front end, novas experiências de vida, muitos novos amigos. Aprender que a comunidade é muito mais importante que muitas outras coisas, conhecer pessoas que buscam objetivos e metas comparadas as suas, é entusiasmante, é sensacional e, acima de tudo essencial quando se busca ser um profissional com diferencial...
 

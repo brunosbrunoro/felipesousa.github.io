@@ -7,10 +7,9 @@ tag:
 - project
 - languages
 blog: true
-star: true
 ---
 
-## Summary:
+## Sumário:
 
 Durante muito tempo, escrever em JavaScript puro era pra mim uma perfeita combinação, sem o uso de pré-processadores ou coisas que me fizessem mudar a maneira de se escrever em JS nativo. Porém, de uns tempos pra cá, comecei a experimentar um cara chamado CoffeeScript, que é por muitos vistos com maus olhos...
 

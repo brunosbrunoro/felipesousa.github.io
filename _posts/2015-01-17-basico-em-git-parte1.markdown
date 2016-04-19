@@ -8,10 +8,9 @@ tag:
 - code
 - git
 blog: true
-star: true
 ---
 
-## Summary:
+## Sumário:
 
 Bem, visto que é super importante o uso de Controle de Versões em projetos para organizá-lo de forma mais correta, ver a evolução do projeto com o tempo, etc.
 

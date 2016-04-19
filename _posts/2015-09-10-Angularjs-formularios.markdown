@@ -7,11 +7,9 @@ tag:
 - frontend
 - html5
 blog: true
-star: true
-
 ---
 
-## Summary:
+## Sumário:
 
 Validar formulários é uma atividade um pouco chata, porém, super importante de ser praticada, nesse artigo falarei um pouco sobre como podemos utilizar o AngularJS para nos auxiliar a validarmos formulários de forma simples e rápida.
 

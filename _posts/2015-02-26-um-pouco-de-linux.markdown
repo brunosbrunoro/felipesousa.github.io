@@ -7,10 +7,9 @@ tag:
 - distro
 - lifestyle
 blog: true
-star: true
 ---
 
-## Summary:
+## Sumário:
 
 Há tempos queria escrever um pouco sobre Linux, sou fã do SO, a variedade e as opções são de encher os olhos, com isso, resolvi escrever um pouco sobre o dia a dia com o Linux...
 

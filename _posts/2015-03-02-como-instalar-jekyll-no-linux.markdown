@@ -8,10 +8,9 @@ tag:
 - jekyll
 - github
 blog: true
-star: true
 ---
 
-## Summary:
+## Sumário:
 
 Atualmente, quanto mais simples e funcional a ferramenta for, mais rapidamente ela será estudada e usada, Jekyll é um Static Page Generator criado em Ruby, super fácil de se utilizar e modificar...
 

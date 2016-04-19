@@ -7,10 +7,9 @@ tag:
 - mongodb
 - nosql
 blog: true
-star: true
 ---
 
-## Summary:
+## Sumário:
 
 MongoDB é uma aplicação de open source, de alta performance, orientado a documentos. Foi escrito em C++. Muitas aplicações podem, dessa forma, modelar informações de modo muito mais natural, pois os dados podem ser aninhados em hierarquias complexas e continuar a ser indexáveis e fáceis de buscar.
 

@@ -7,7 +7,6 @@ tag:
 - prototype
 - organization
 blog: true
-star: true
 ---
 
 ## Sumário:

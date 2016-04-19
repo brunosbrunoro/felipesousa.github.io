@@ -7,8 +7,6 @@ tag:
 - filters
 - javascript
 blog: true
-star: true
-
 ---
 
 ## Sumário:

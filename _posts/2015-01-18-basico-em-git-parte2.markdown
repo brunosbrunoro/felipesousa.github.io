@@ -8,11 +8,9 @@ tag:
 - code
 - extra
 blog: true
-star: true
-
 ---
 
-## Summary:
+## Sumário:
 
 Bem, voltando com a segunda parte o artigo sobre GIT, vamos aprender sobre como verificar as mudanças realizadas nos arquivos, aprender como verificar os logs do projeto e como desfazer algumas ações.
 
