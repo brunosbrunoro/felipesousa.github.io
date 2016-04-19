@@ -2,8 +2,8 @@
 
 # TEAM
 
-	Your name - your home
+	Felipe Sousa - Developer
 
 # TECHNOLOGY
 
-	HTML5, CSS3, JS, JEKYLL
+	HTML5, CSS3, JS, NODE, ANGULARJS, GIT, IONIC, AGILE
