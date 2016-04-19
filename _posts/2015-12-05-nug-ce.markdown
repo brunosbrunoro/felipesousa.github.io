@@ -1,0 +1,14 @@
+---
+title: "Static Generators - No backend, No Problem"
+layout: page
+date: 2015-12-05 09:10
+tag:
+- nodejs
+- generators
+- talks
+- opensource
+- comunity
+link_slide: "https://felipesousa.github.io/talks/NUG-CE/#/"
+event: "1st NUG-CE - UNIFOR - Fortaleza"
+talks: true
+---

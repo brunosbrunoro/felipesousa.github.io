@@ -678,6 +678,83 @@ pre {
 .tag-list > .list .item:hover .url aside {
   color: #666;
 }
+.home,
+.talks {
+  margin-top: 125px;
+}
+.home > .list,
+.talks > .list {
+  border-top: 1px solid #ededed;
+  margin-top: 30px;
+  padding-top: 40px;
+  position: relative;
+}
+.home > .list:before,
+.talks > .list:before {
+  display: block;
+  content: " ";
+  width: 7px;
+  height: 7px;
+  border: #ededed 1px solid;
+  position: absolute;
+  top: -5px;
+  left: 50%;
+  margin-left: -5px;
+  background: #fff;
+  box-shadow: #fff 0 0 0 5px;
+  border-radius: 3px;
+}
+.talks > .list > .item {
+  display: block;
+  width: 95%;
+  margin: -40px auto -10px;
+}
+.talks > .list > .item > .url {
+  width: 100%;
+  display: block;
+  padding: 20px 0 10px;
+  text-decoration: none;
+}
+.talks > .list > .item > .event {
+  font-size: 1.5rem;
+  font-weight: 300;
+  color: #b9b9b9;
+  font-family: "Helvetica Neue";
+}
+.talks > .list > .item > .url > .title {
+  margin: 0;
+  width: 75%;
+  font-weight: 500;
+  -webkit-transition: all ease-in-out 0.2s;
+          transition: all ease-in-out 0.2s;
+}
+.talks > .list > .item:hover > .url > .title {
+  color: #4b0082;
+}
+.talks > .list aside {
+  position: relative;
+  top: 2px;
+  margin: 0;
+  width: 25%;
+  float: right;
+  font-weight: 300;
+  color: #aaa;
+  text-align: right;
+  -webkit-transition: all ease-in-out 0.2s;
+          transition: all ease-in-out 0.2s;
+}
+.talks > .list .item:hover .url aside {
+  color: #666;
+}
+.talks > .list > .item > .url > .title {
+  display: inline;
+}
+.talks > .list > .item > .url > .emoji {
+  display: inline;
+  position: relative;
+  top: -4px;
+  margin-right: 10px;
+}
 .author {
   padding: 3rem 0;
   border-bottom: 1px solid #ededed;
