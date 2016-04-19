@@ -35,40 +35,42 @@ Esses são os principais tipos de filtros existentes no AngularJS, para mais inf
 
 Depois de mostrarmos a principal usuabilidade de um filtro, e alguns dos principais tipos, vamos agora aprender como podemos usá-los em nossa aplicação, filtros são declarados por um `|` - pipeline - e logo após o tipo de filtro que vamos usar.
 
-```html
-{{Dado | Filtro:Parâmetro}}
-```
+{% highlight html %}
+<p ng-bind='Dado | Filtro:parametro'>
+{% endhighlight %}
+
 Alguns filtros podem ser adicionados parâmetros para tirarmos melhor proveito, ou para uma melhor formatação do dado. Podemos também adicionar mais de um filtro ao mesmo valor.
 
-```html
-{{Dado | Filtro:Parâmetro | Filtro:Parâmetro}}
-```
+{% highlight html %}
+<p ng-bind='Dado | Filtro:parametro | Filtro:parametro'>
+{% endhighlight %}
+
+
 Nesse modelo o filtro seguinte vai se basear no resultado do filtro anterior, e não do valor original.
 Usando esse tipo de declaração conseguimos filtrar nossas informações declarando o filtro na própria view. Porém, podemos fazer com que os valores já venha filtrados a partir de um controller ou um service.
 
 #### Usando filtros no controller
 Nos controlers, os filtros mudam um pouco a nomeclatura, sendo todos eles seguidos de **Filter** depois do seu nome natural. Para utilizarmos um filtro, devemos importar o mesmo no controller.
 
-
-```javascript
+{% highlight javascript %}
 angular.module('myApp', [])
 .controller('mainCtrl', ['currencyFilter', '$scope', function(currencyFilter, $scope){}])
-```
+{% endhighlight %}
 
 Para utilzar eles dentro do controller devemos adicionar seguinte sintaxe:
 
-```javascript
+{% highlight javascript %}
 nomeFilter(valoraAlterar, parâmetros)
-```
+{% endhighlight %}
 
 Nesse exemplo, criaremos uma função com o nome do filtro, passando alguns parametrôs, o 1º sendo o valor a ser filtrado e o 2º sendo os parametros do filtro. Com isso podemos chegar ao seguinte código:
 
-```javascript
+{% highlight javascript %}
 angular.module('myApp', [])
 .controller('mainCtrl', ['currencyFilter', '$scope', function(currencyFilter, $scope){
   $scope.valor = currencyFilter(5000, "R$");
 }])
-```
+{% endhighlight %}
 
 Nesse exemplo eu converti o valor `5000`, utilizando o filtro `currencyFilter`, passando como parâmetro o tipo de moeda, que nesse caso foi `R$`, o valor na view, será retornado `R$5000,00`.
 
