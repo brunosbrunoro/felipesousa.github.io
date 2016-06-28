@@ -5,32 +5,4 @@ permalink: /about/index.html
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Meu nome é Felipe Sousa, nasci e moro em Fortaleza-CE,
-sou Desenvolvedor Front-end, sou apaixonado pela web, open source, mobile, etc.
-Comecei com desenvolvimento com apenas 13 anos onde criava pequenos blog’s no Blogger,
-depois de um tempo aumentei a minha curiosidade para saber como que de fato ocorria por trás da mágica toda! </p>
-
-<p> A partir daí comecei a estudar sobre desenvolvimento e me apaixonei loucamente pelo Front-End,
-hoje cá estou eu, escrevendo artigos, compartilhando o que eu aprendi, com o blog pretendo aumentar
-o número de leitores - antigamente, apenas meu amigos ouviam o que eu aprendia - procurar muito mais
-cabeças loucas por conteúdo, que procuram aprender. </p>
-
-<p> Desde de muito novo quis aprender os segredos do mundo Front end - o que são, o que comem, como vivem -
-fui atrás e aprendi muitos dos meus conhecimentos em blog’s pessoais tais como esse blog. </p>
-
-<h2>Skills</h2>
-
-<ul class="skill-list">
-	<li>HTML - Jade</li>
-	<li>CSS (Stylus, Sass)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>JavaScript</li>
-	<li>CoffeeScript</li>
-	<li>NodeJS</li>
-	<li>AngularJS</li>
-	<li>GulpJS</li>
-	<li>Ionic Framework (Mobile Development)</li>
-	<li>Git</li>
-	<li>MongoDB</li>
-	<li>Agile Development</li>
-</ul>
+Meu nome é Felipe Sousa, tenho 18 anos, nasci e moro em Fortaleza, no meu querido Ceará, hoje em dia trabalho como Desenvolvedor Front End, minha história com o desenvolvimento é relativamente pequena, trabalho pouco mais de 1 ano profissionalmente, porém, estudo desde quando tinha 13 anos, sou apaixonado por tecnologia, gosto de criar coisas, aprender e poder ajudar o máximo de pessoas, gosto muito de fazer novos amigos e poder aproveitar o máximo que a comunidade e a vida por completo tem a oferecer.
