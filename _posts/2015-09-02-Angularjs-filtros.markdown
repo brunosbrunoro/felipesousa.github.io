@@ -45,7 +45,6 @@ Alguns filtros podem ser adicionados parâmetros para tirarmos melhor proveito, 
 <p ng-bind='Dado | Filtro:parametro | Filtro:parametro'>
 {% endhighlight %}
 
-
 Nesse modelo o filtro seguinte vai se basear no resultado do filtro anterior, e não do valor original.
 Usando esse tipo de declaração conseguimos filtrar nossas informações declarando o filtro na própria view. Porém, podemos fazer com que os valores já venha filtrados a partir de um controller ou um service.
 
