@@ -310,6 +310,7 @@ p {
   font-weight: 300;
   margin-bottom: 20px;
   letter-spacing: 0.4px;
+  text-align: justify;
 }
 @media only screen and (max-width: 400px) {
   p {
