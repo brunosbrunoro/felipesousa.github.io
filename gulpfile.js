@@ -14,7 +14,7 @@ let messages = {
 	jekyllBuild: '<span style="color: grey">Running:</span> $ jekyll build'
 };
 
-gulp.task('jekyll-build', (done) => {
+gulp.task('jekyll-build', done => {
   browserSync.notify(messages.jekyllBuild);
   return cp.spawn('bundle', ['exec', 'jekyll', 'build', '--drafts', '--quiet', '--config', '_config.yml,_config_dev.yml'], {stdio: 'inherit'}).on('close', done);
 });
