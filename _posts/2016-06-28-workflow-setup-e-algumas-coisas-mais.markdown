@@ -1,7 +1,7 @@
 ---
 title: "Workflow, Setup e algumas coisas mais"
 layout: post
-date: 2016-07-26 21:08
+date: 2016-07-27 21:08
 tag:
 - lifestyle
 - workflow
