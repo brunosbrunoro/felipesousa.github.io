@@ -3,6 +3,15 @@ title: About
 layout: page
 permalink: /about/index.html
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+<img src="{{site.url}}/{{ site.picture }}" alt="Picture Profile" class="animated">
 
-Meu nome é Felipe Sousa, tenho 18 anos, nasci e moro em Fortaleza, no meu querido Ceará, hoje em dia trabalho como Desenvolvedor Front End, minha história com o desenvolvimento é relativamente pequena, trabalho pouco mais de 1 ano profissionalmente, porém, estudo desde quando tinha 13 anos, sou apaixonado por tecnologia, gosto de criar coisas, aprender e poder ajudar o máximo de pessoas, gosto muito de fazer novos amigos e poder aproveitar o máximo que a comunidade e a vida por completo tem a oferecer.
+<div class="animated">
+	<p>
+		Hello, my name is Felipe, today work as Front end Developer, collaborator to Google Developers Group of Fortaleza (GDG 	Fortaleza), graduating in Analysis and Systems Development at DeVry Fanor. Here is where I place my articles, talks, projects, and basically all about me. You can talk to me in some of these links below.
+	</p>	
+</div>
+
+
+<div class="social-links-center animated">
+	{% include social-links.html %}	
+</div>

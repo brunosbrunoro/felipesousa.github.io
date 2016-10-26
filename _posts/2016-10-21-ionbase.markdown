@@ -1,0 +1,15 @@
+---
+title: "Ionbase"
+layout: post
+date: 2016-10-21 11:40
+tag:
+- ionic
+- angularjs
+- firebase
+- development
+- lives
+
+repository: "https://github.com/felipesousa/ionbase"
+projects: true
+jemoji: '<img class="emoji" title=":package:" alt=":package:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f525.png" height="20" width="20" align="absmiddle">'
+---
